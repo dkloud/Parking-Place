@@ -1,0 +1,7 @@
+F:\Exia\repos\ParkingPlace\ParkingPlace\bin\Debug\ParkingPlace.exe.config
+F:\Exia\repos\ParkingPlace\ParkingPlace\bin\Debug\ParkingPlace.exe
+F:\Exia\repos\ParkingPlace\ParkingPlace\bin\Debug\ParkingPlace.pdb
+F:\Exia\repos\ParkingPlace\ParkingPlace\obj\Debug\ParkingPlace.csprojResolveAssemblyReference.cache
+F:\Exia\repos\ParkingPlace\ParkingPlace\obj\Debug\ParkingPlace.csproj.CoreCompileInputs.cache
+F:\Exia\repos\ParkingPlace\ParkingPlace\obj\Debug\ParkingPlace.exe
+F:\Exia\repos\ParkingPlace\ParkingPlace\obj\Debug\ParkingPlace.pdb
